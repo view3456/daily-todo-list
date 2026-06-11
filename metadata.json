@@ -1,0 +1,6 @@
+{
+  "name": "Daily Todo List",
+  "description": "แอปพลิเคชันจดบันทึกและจัดการรายการสิ่งที่ต้องทำประจำวัน ช่วยให้วิถีชีวิตและการทำงานของคุณเป็นระเบียบ เรียบง่าย และมีประสิทธิภาพ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
